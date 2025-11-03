@@ -1,0 +1,3 @@
+# Ignorar carpetas `run` y `data` en cualquier ubicación del repositorio
+run/
+data/
